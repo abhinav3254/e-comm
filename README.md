@@ -8,3 +8,7 @@ Project Flow
 * User Login and SignUp
 * Order Product
 * -----etc
+
+resource link :-
+
+<a href="https://github.com/typicode/json-server">Json Server API</a>
