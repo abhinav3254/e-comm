@@ -77,6 +77,18 @@
       "password": "1234",
       "email": "john@markdown.com",
       "id": 13
+    },
+    {
+      "name": "Dinesh Parkar",
+      "password": "1234",
+      "email": "dinesh@parker.com",
+      "id": 14
+    },
+    {
+      "name": "john mackon",
+      "password": "1234",
+      "email": "john@mackon.com",
+      "id": 15
     }
   ]
 }
