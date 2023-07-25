@@ -1,76 +1,82 @@
 {
-    "seller": [
-        {
-            "name": "kushi jha",
-            "email": "kushi@seller.com",
-            "password": "1234",
-            "id": 1
-        },
-        {
-            "name": "abhinav jha",
-            "email": "abhinav@seller.com",
-            "password": "1234",
-            "id": 2
-        },
-        {
-            "name": "John Doe",
-            "email": "john.doe@example.com",
-            "password": "1234",
-            "id": 3
-        },
-        {
-            "name": "Jane Smith",
-            "email": "jane.smith@example.com",
-            "password": "1234",
-            "id": 4
-        },
-        {
-            "name": "Michael Johnson",
-            "email": "michael.johnson@example.com",
-            "password": "1234",
-            "id": 5
-        },
-        {
-            "name": "Emily Brown",
-            "email": "emily.brown@example.com",
-            "password": "1234",
-            "id": 6
-        },
-        {
-            "name": "David Lee",
-            "email": "david.lee@example.com",
-            "password": "1234",
-            "id": 7
-        },
-        {
-            "name": "Sophia Wang",
-            "email": "sophia.wang@example.com",
-            "password": "1234",
-            "id": 8
-        },
-        {
-            "name": "Robert Johnson",
-            "email": "robert.johnson@example.com",
-            "password": "1234",
-            "id": 9
-        },
-        {
-            "name": "Ava Martinez",
-            "email": "ava.martinez@example.com",
-            "password": "1234",
-            "id": 10
-        },
-        {
-            "name": "William Kim",
-            "email": "william.kim@example.com",
-            "password": "1234",
-            "id": 11
-        },
-        {
-            "name": "Olivia Fischer",
-            "email": "olivia.fischer@example.com",
-            "password": "1234",
-            "id": 12
-        }
-    ]
+  "seller": [
+    {
+      "name": "kushi jha",
+      "email": "kushi@seller.com",
+      "password": "1234",
+      "id": 1
+    },
+    {
+      "name": "abhinav jha",
+      "email": "abhinav@seller.com",
+      "password": "1234",
+      "id": 2
+    },
+    {
+      "name": "John Doe",
+      "email": "john.doe@example.com",
+      "password": "1234",
+      "id": 3
+    },
+    {
+      "name": "Jane Smith",
+      "email": "jane.smith@example.com",
+      "password": "1234",
+      "id": 4
+    },
+    {
+      "name": "Michael Johnson",
+      "email": "michael.johnson@example.com",
+      "password": "1234",
+      "id": 5
+    },
+    {
+      "name": "Emily Brown",
+      "email": "emily.brown@example.com",
+      "password": "1234",
+      "id": 6
+    },
+    {
+      "name": "David Lee",
+      "email": "david.lee@example.com",
+      "password": "1234",
+      "id": 7
+    },
+    {
+      "name": "Sophia Wang",
+      "email": "sophia.wang@example.com",
+      "password": "1234",
+      "id": 8
+    },
+    {
+      "name": "Robert Johnson",
+      "email": "robert.johnson@example.com",
+      "password": "1234",
+      "id": 9
+    },
+    {
+      "name": "Ava Martinez",
+      "email": "ava.martinez@example.com",
+      "password": "1234",
+      "id": 10
+    },
+    {
+      "name": "William Kim",
+      "email": "william.kim@example.com",
+      "password": "1234",
+      "id": 11
+    },
+    {
+      "name": "Olivia Fischer",
+      "email": "olivia.fischer@example.com",
+      "password": "1234",
+      "id": 12
+    },
+    {
+      "name": "John Markdown",
+      "password": "1234",
+      "email": "john@markdown.com",
+      "id": 13
+    }
+  ]
 }
